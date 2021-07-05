@@ -10,7 +10,7 @@ INCLUDE Irvine32.inc
 .data
 
 ;intro
-intro BYTE "My name is Jawad Alamgir and this is Prog1.asm",0 ; introduction for the program
+intro BYTE "My name is Jawad Alamgir and this is program1.asm",0 ; introduction for the program
 
 ;instructions
 instructions BYTE "Enter 2 numbers and I will show you the product, sum, quotient, difference and remainder",0	;instructions for user
